@@ -1,0 +1,28 @@
+'editor':
+  'fontSize': 12
+  'softWrap': true
+'core':
+  'themes': [
+    'atom-light-ui'
+    'fizzy'
+  ]
+  'ignoredNames': [
+    '.git'
+    '.svn'
+    '.DS_Store'
+  ]
+  'disabledPackages': []
+'exception-reporting':
+  'userId': '40142f00-e70d-8c0c-cbc1-2859318a75f2'
+'release-notes':
+  'viewedVersion': '0.75.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '953db78c010a83af30d646b21316dae83f11f260'
+'spell-check':
+  'grammars': [
+    'source.gfm'
+    'text.git-commit'
+    'text.plain'
+  ]
